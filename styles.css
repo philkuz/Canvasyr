@@ -1,0 +1,7 @@
+#gameCanvas{
+    position: absolute;
+    width:100%;
+    top: 40px;
+    bottom: 20px;
+    border:1px solid #000000;
+}
